@@ -1,0 +1,398 @@
+location,Nationality,job_Category,EmploymentType,gender,Experience_years,min Education,Name,KeySkills
+Kabul,National,Business,Full Time,Male,8 years,BA,Position Title: Admin Finance Manager,
+Kabul,International,Business,Part Time,Any,8-12 years,MA,Position Title: Grant Coordinator/Proposal Writer (international) only,
+Kabul,Any,Business,Part Time,Female,8-12 years,MA,Position Title: Grant Coordinator/Proposal Writer (Female) only,
+Herat,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Reporting and Data Management Officer,
+Herat,National,Program/Project,Full Time,Any,5 years,BA,Position Title: District Supervisors / Team Leaders,
+Herat,National,Program/Project,Full Time,Any,4 years,BA,Position Title: Food Distribution/Community Mobilizer,
+Herat,National,Program/Project,Full Time,Male,2 years,BA,Position Title: Stock Keeper,
+Kabul,National,Business,Full Time,Any,4 years,BA,"Position Title: Admin, Finance and Logistic Officer (BGL UNESCO)",
+Maidan Wardak,National,Support,Full Time,Any,4 years,None,Position Title: Cook,
+Maidan Wardak,National,Security,Full Time,Any,4 years,None,Position Title: Guard,
+Kabul,National,Other,Full Time,Any,5 years,HS,Position Title: Supply Assistant,
+Bamian,National,Program/Project,Full Time,Female,3 years,BA,Position Title: Psychosocial Counsellor,
+Kabul,Any,Education,Part Time,Any,1-3 Years,BA,"Position Title: School Teachers, Cambridge Subjects (Computer, Chemistry, Mathematics, Biology, Physics, English) & IT Manager",
+Kabul,National,Business,Full Time,Male,4-5 Years,BAs,Position Title: Deputy Sales & Marketing Manager,
+Kabul,National,Engineering,Full Time,Any,2-3 years,BA,Position Title: Biomedical Engineer,
+Kabul,National,Professional Services,Full Time,Any,3 years,BA,Position Title: Expor Development Specialist,
+Kabul,National,Professional Services,Full Time,Any,4 years,BA,Position Title:Export Policy Specialist,
+Kabul,National,Program/Project,Full Time,Female,3 years,MD,Position Title: Monitoring and Evaluation (M&E) Officer (Re Announced),
+Farah,National,Program/Project,Full Time,Any,1 Year,BA,Position Title: Nurse,At least one years? experience in relevant clinical fields
+Kabul,National,Education,Full Time,Female,None ,BA,Position Title: Pashto and English Teacher,
+Kabul,National,Other,Full Time,Male,3-4 Years,BA,Position Title: Procurement and Documentation Officer,
+Khost,National,Health Care,Full Time,Male,5 Years,MD,Position Title: Orthopedic Specialist,
+Kabul,National,Education,Part Time,Male,5 years,BA,Position Title: Instructor ,
+Kabul,National,Sales,Full Time,Any,7 years,BA,"Position Title: Executive, Corporate Sales","Having computer knowledge, (MS Office, internet & email)"
+Kabul,National,Engineering,Full Time,Male,5 years,BA,Position Title: Civil Engineer,
+Kabul,National,Banking/Accounting,Full Time,Any,5 years,BA,Position Title: Senior Audit Officer,"In-depth knowledge in Audit conduction, documentation and reporting;"
+Kabul,National,Business,Full Time,Any,5 years,BA,Position Title: Business Development and Proposal Writing Specialist,
+Kabul,National,Information Technology,Full Time,Any,3years,BA,Position Title: Web and Social Media Administrator,
+Kabul,National,Education,Full Time,Female,6 years,MA,"Position Title: Professional Development Coordinator, ECD (Re Announced)",
+Kabul,National,Construction,Full Time,Male,7 Years,BA,Position Title: Proposal Writer ( Civil Engineer ),
+Kabul,National,Program/Project,Full Time,Any,4 years,MA,Position Title: Sales Trainer,
+Kandahar,National,Construction,Full Time,Any,2 years,BA,Position Title: Site Engineer,
+Kabul,National,Information Technology,Full Time,Any,5 years,BA,"Position Title: Monitoring, Evaluation, Accountability, and Learning (MEAL) Coordinator",
+Balkh,National,Health Care,Full Time,Any,10 years,MA,Position Title: HMIS Coordinator/Monitoring & Performance Manager (Re Announced),
+Nimruz,National,Program/Project,Full Time,Any,2 years,BA,Position Title: MEAL Team Leader- Nimruz (Re Announced) (Re Announced),
+Kabul,National,Sales,Full Time,Male,2-3 Years,BA,Position Title: Medical Representative,
+Nangarhar,National,Education,Full Time,Male,2 years,BA,Position Title: Human Resource Manager,
+Badghis,National,Legal,Full Time,Any,3 Years,BA,Position Title: Protection Officer,"University degree, law and/or other social sciences faculties"
+Kabul,National,Business,Full Time,Any,3 Years,BA,"Position Title: Operations, Admin and logistics officer (Re Announced)",
+Kabul,National,Information Technology,Full Time,Male,4-5 years,MA,Position Title: IT Manager,
+Kabul,National,Banking/Accounting,Full Time,Male,3 years,BA,Position Title: Chief Risk Officer (CRO) (Re Announced),Three years of managerial work experience in risk management of banks.
+Kabul,National,Banking/Accounting,Full Time,Any,3 years,BA,Position Title: Deputy Chief Risk Officer (Dy CRO),Three years of managerial work experience in risk management of banks.
+Kabul,National,Business,Full Time,Any,3 years,BA,Position Title: Digital Marketer,
+Herat,National,Business,Full Time,Any,5 years,BA,Position Title: Administrative and HR Manager (Re Announced),"Excellent writing and speaking skills in Pashto, Dari and English are required."
+Kabul,National,Business,Full Time,Any,5 years,BA,Position Title: HR Manager (Freelance),
+Kabul,National,Business,Full Time,Any,3-5 years,BA,Position Title: Accountant,
+Kabul,National,Other,Full Time,Male,5 years,BA,Position Title: Admin &  Finance Manager,
+Kabul,Any,Education,Full Time,Male,2 Years,MA,Position Title: Lectureship,Demonstrated ability to resolve problems both independently and collaboratively
+Kabul,National,Other,Full Time,Male,3 years,HS,Position Title: Laundry Officer,
+Balkh,National,Agriculture,Full Time,Any,3 years,BA,Position Title: Horticulture Assistant (Re Announced),
+Balkh,National,Construction,Full Time,Male,6 years,BA,Position Title: Road Project Engineer / Construction Manager,
+Kabul,National,Business,Full Time,Male,4 years,BA,Position Title: Finance and Money Exchange Manager,
+Kabul,National,Program/Project,Full Time,Any,3-5 years,BA,Position Title: Last Mile Assurance Officer,
+Nangarhar,National,Program/Project,Full Time,Any,2 years,HS,Position Title: Section Leader (SL) for AIM team DRC-HDP,2 years? experience in the mine action program (clerance and EOD)
+Nangarhar,National,Program/Project,Full Time,Any,2 years,HS,Position Title: AIM Searcher-DRC- HDP,"2 years? experience in mine action program (Clearance, EOD, Survey, and demining operation)."
+Ghazni,National,Education,Full Time,Female,5 years,BA,Position Title: Education Officer,
+Nangarhar,National,Other,Full Time,Any,1 Year,SS,Position Title: Assistant Inventory Control (Casual) - Jalalabad,
+Farah,National,Program/Project,Full Time,Any,2 years,BA,Position Title: Economic Recovery Officer (SME),Minimum of 2 years of experience required in implementing Livelihoods interventions oriented to micro/cash for work activities.
+Farah,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Economic Recovery Officer (Cash for Work),Minimum of 3 years? work experience in relevant construction work
+Kapisa,National,Program/Project,Full Time,Female,2 years,BAs,Position Title: Hygiene Promotion Officer-Kabul/Kapisa,
+Khost,National,Communication,Full Time,Any,4 years,BA,Position Title: Community Mobilization Officer,
+Kabul,National,Business,Full Time,Any,3 years,BA,"Position Title: Risk, Ethics & Safeguarding Manager",Excellent English languages skills (written and verbal) and report writing skill
+Kabul,National,Other,Full Time,Any,5 years,BA,Position Title: Natural Resource Management (NRM) Coordinator,
+Kapisa,National,Program/Project,Full Time,Any,1 year,BA,"Position Title: Monitoring, Evaluation, Accountability and Learning (MEAL) officer - Kapisa (Re Announced)",
+Kabul,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Monitoring Evaluation Accountability and Learning Deputy Manager (Re Announced),
+Takhar,National,Health Care,Full Time,Any,2 years,MD,Position Title: RH Officer,"Technical RH skills,"
+Balkh,National,Engineering,Full Time,Any,3 years,BAs,Position Title: Regional Engineer (Officer),
+Balkh,National,Agriculture,Full Time,Any,3 years,BA,Position Title: Provincial Natural Resource Management (NRM) Officer,
+Badghis,National,Support,Full Time,Male,2 years,SS,Position Title: Cook/Cleaner,2 years working experience with NGOs and expatriates is an advantage.
+Takhar,National,Purchasing-Procurement,Full Time,Male,4 years,BA,Position Title: Procurement Officer,"Minimum 2 ? 4 years of work experience in the field of procurement or admin and finance NGOs, UN."
+Takhar,National,Business,Full Time,Any,2-3 years,BA,Position Title: Micro Finance Officer,"To have a good supervisor, monitoring, analytical and troubleshooting skills."
+Takhar,National,Health Care,Full Time,Female,2 years,BA,Position Title: Physiotherapist,
+Kabul,National,Business,Full Time,Any,5 years,BA,Position Title: Legal & Policy Advisor-Consultant,"Strong analytical, writing, interpersonal, and research skills."
+Nangarhar,National,Program/Project,Full Time,Any,3-5 years,BA,Position Title: Protection Manager (Re Announced),"University degree or Advanced University degree (Master?s degree) in a relevant field (e.g., political science, human rights, humanitarian project management, social work, international law, international development, etc.)."
+Nangarhar,National,Program/Project,Full Time,Any,1 Year,BA,Position Title: CCCM Community Mobilizer,Experience in a Camp Coordination and Camp Management (an advantage)
+Kabul,National,Education,Part Time,Any,5 years,BA,Position Title: Instructor ,
+Balkh,National,Other,Full Time,Any,5 years,BA,Position Title: Regional Social Cohesion Officer,
+Herat,National,Banking/Accounting,Full Time,Male,None ,NONE,Position Title: Associate Real Estate and Subscription,
+Ghazni,National,Other,Full Time,Any,3 years,BA,Position Title: Livelihood Trainer (Re Announced),"Three years relevant experience with bachelor?s degree while 2 years experiences within NGOs, UN agencies or similar organizations."
+Kandahar,National,Business,Full Time,Female,3- years,BA,Position Title: Finance Officer (Female only),Bachelor?s degree relevant to the position.
+Herat,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Associate Protection Cluster Coordination Officer,
+Kandahar,National,Program/Project,Full Time,Any,2 Years,BA,"Position Title: Nutrition Officer, NOB, Fixed-Term, Kandahar, Afghanistan, #90284",
+Kabul,National,Business,Full Time,Male,3-5 years,MA,Position Title: Taxation Manager,
+Kabul,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Monitoring & Evaluation (M&E) Officer,
+Kabul,National,Purchasing-Procurement,Full Time,Any,6 years,SS,Position Title: Procurement Associate (Roster),A minimum of 6 years of relevant experience in providing procurement support services in national and/or international public or corporate organizations is required.
+Kabul,National,Business,Full Time,Any,2 Years,BA,Position Title: Coordinator Administration,
+Kabul,National,Sales,Full Time,Any,2-3 Years,MA,Position Title: Sales Executive,Business Communication skills
+Nangarhar,National,Business,Full Time,Any,4 years,BA,Position Title: Finance Officer (Re-Announced),Managing resources to optimize results.
+Kabul,National,Engineering,Full Time,Any,2-3 years,BA,Position Title: MEP Engineer (Re Announced),
+Kabul,National,Banking/Accounting,Full Time,Male,7 years,VD,Position Title: Chief Risk Officer ,
+Kabul,National,Banking/Accounting,Full Time,Male,5 years,BA,Position Title: Chief Compliance Officer ,
+Kabul,National,Health Care,Full Time,Any,2 Years,HS,"Position Title: Ob/Gyn specialist, Pediatrician, Sonologist, Nurse, Midwife, Lab technician, Vaccinator, Cleaners, Driver, Guard",
+Kabul,National,Engineering,Full Time,Any,3 years,BA,Position Title: Design engineer,
+Kunduz,National,Business,Full Time,Any,4 years,BA,Position Title: Finance officer,At least two-four years working experience preferably with one of the Local/International NGO's or UN offices in the related field.
+Khost,National,Information Technology,Full Time,Any,2 years,BA,Position Title: ICT Assistant,Bachelor's degree in computer science or any other relevant fields.
+Kabul,National,Program/Project,Full Time,Any,8 Years,MA,"Position Title: Senior Principal Advisor Monitoring, Evaluation, Research and Learning (MERL)","Eight (8) years of demonstrated experience designing, and implementing monitoring and evaluation, research and learning activities and special studies for complex programs in developing countries."
+Kabul,National,Other,Full Time,Any,2 years,MA,Position Title: Associate Rule of Law Officer,
+Kabul,National,Program/Project,Full Time,Any,4 years,BA,Position Title: Harmonize Approach of Cash Transfer (HACT) Consultant (For Afghan Nationals Only),
+Kandahar,National,Engineering,Full Time,Any,2 years,BA,Position Title: Civil Engineer KDR,
+Kandahar,National,Facilities,Full Time,Any,2 years,BA,Position Title: Community Mobilizer,"2 years of relevant experience of working in the community (Social Mobilizing, Community Mobilizing, Social Organizer, Community Facilitator and etc)."
+Kabul,National,Education,Full Time,Any,3 Years,BA,Position Title: Senior English Trainer (Re Announced),Excellent communication skills- both spoken and written
+Kabul,National,Business,Full Time,Any,5 years,BAs,Position Title: Senior Financial Institution Officer,
+Kabul,National,Other,Full Time,Any,3 Years,MA,Position Title: Program Development Manager (Re-Advrt.),At least 3-5 years? experience in the international humanitarian organizations
+Kandahar,National,Health Care,Full Time,Female,6 years,MD,Position Title: Performance Improvement Officer (Re Announced),"Six years of experience in designing, implementing and evaluating thematic programs for at the provincial hospital, BPHS health facility, and community levels."
+Kunar,National,Health Care,Full Time,Female,1-2 years,BA,Position Title: Community Based Rehabilitation Worker (CBRW),
+Kabul,National,Other,Full Time,Any,3 years,BA,Position Title: Value Chain Coordinator,
+Kandahar,National,Program/Project,Full Time,Any,3-5 years,BA,Position Title: Program Officer KDR,
+Laghman,National,Construction,Full Time,Male,3 years,BA,Position Title: Construction Engineer Supervisor,
+Badghis,National,Construction,Full Time,Male,4 Years,BA,Position Title: Foreman,
+Farah,National,Construction,Full Time,Male,4 Years,BA,Position Title: Foreman,
+Herat,National,Construction,Full Time,Male,4 Years,BA,Position Title: Foreman,
+Herat,Any,Pharmaceutical,Full Time,Any,7 years,MA,Position Title: Production Manager,
+Kabul,National,Program/Project,Full Time,Any,5 years,BA,Position Title: SENIOR MONITORING AND EVALUATION ADVISOR,
+Kabul,National,Program/Project,Full Time,Any,5 years,BA,Position Title: DEPUTY MONITORING LEAD,
+Kabul,National,Agriculture,Full Time,Any,05 years,MA,Position Title: Gender Specialist,
+Kabul,National,Banking/Accounting,Full Time,Any,4 years,BA,Position Title: Senior Compliance Officer,
+Kabul,National,Program/Project,Full Time,Any,5 Years,BA,Position Title: DTM Reporting and Translation Assistant,High school degree/certificate with five years of relevant experience or
+Kabul,National,Program/Project,Full Time,Any,4 Years,HS,Position Title: DTM Monitoring and Evaluation Assistant,High school degree/certificate with four years of relevant experience or
+Kabul,National,Business,Full Time,Male,05 Years,BA,Position Title: Finance and Tax Officer (Re Announced),Experience in QuickBooks financial software.
+Kabul,National,Program/Project,Full Time,Any,6 years,BA,Position Title: Grants Management Specialist - Grants Management and Reporting (GMR) (Re Announced),"University degree in organizational development, international relations, business administration, education, humanitarian affairs, public and social policy or related field(s)"
+Bamian,National,Health Care,Full Time,Any,3 years,MD,Position Title: Paediatrician,"Good computer skill in word, excel, MS office,"
+Bamian,National,Health Care,Full Time,Any,3 year,BA,Position Title: Pharmacy Assistant,
+Takhar,National,Health Care,Full Time,Any,2 years,MD,Position Title: Project Senior Officer,Work Experience: At least 2 years in BPHS and nutrition field specially in CBNP project
+Farah,National,Health Care,Full Time,Male,3 Years,BA,Position Title: CLTS supervisor,Skills to convince others
+Farah,National,Health Care,Full Time,Any,2 Years,BA,"Position Title: CLTS facilitator (Couples "" Mahram"")",
+Logar,National,Business,Full Time,Female,2 years,BA,Position Title: Finance Assistant (Only Female),
+Kabul,National,Support,Full Time,Male,3 years,HS,Position Title: Car Washer,At least 3 years of car washing experience in an NGO or similar any other company.
+Kabul,National,Program/Project,Full Time,Any,7 years,MA,Position Title: Program Manager,
+Balkh,National,Support,Full Time,Any,3 years,BA,Position Title: Finance and Admin Assistant,"IT Tools (MS Office, Excel, accounting software, Reporting tools);"
+Badakhshan,National,Security,Full Time,Any,1 Year,MA,Position Title: Security Operations Support Officer- NOA - Multiple Locations,"At least one (1) year of postgraduate professional experience in security management (relevant military, policy or corporate) and/or security risk management, with a background and interest in international humanitarian development. Experience in managing support staff."
+Nimruz,National,Program/Project,Full Time,Any,3 years,BA,Position Title: FSL (Food Security and Livelihood) Officer - Nimruz (Re Announced),
+Badakhshan,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Team Leader,
+Takhar,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Team Leader,
+Kunduz,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Team Leader,
+Baghlan,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Team Leader,
+Laghman,National,Program/Project,Full Time,Female,3 years,BA,Position Title: Senior FSL Officer,
+Badakhshan,National,Program/Project,Full Time,Female,3 years,BA,Position Title: Field Monitor (Healthcare),
+Badakhshan,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Field Monitor (Resilience and Food system)- Civil Engineer and Agriculture,
+Badakhshan,National,Program/Project,Full Time,Any,None ,BA,Position Title: Field Monitor,
+Baghlan,National,Program/Project,Full Time,Any,None ,BA,Position Title: Field Monitor,
+Takhar,National,Program/Project,Full Time,Any,None ,BA,Position Title: Field Monitor,
+Kunduz,National,Program/Project,Full Time,Any,None ,BA,Position Title: Field Monitor,
+Kabul,National,Business,Full Time,Any,5 years,BA,Position Title: HR Manager,Able to develop a global and long term vision
+Kabul,National,Program/Project,Full Time,Any,2 years,BA,Position Title: National Training Officer,"With a master?s degree 2 years and with bachelor?s degree 4 of professional work experience in drug demand reduction such as prevention of illicit drug use, treatment and care of drug use disorders and recovery support for those with drug use and drug use disorders is required;"
+Kandahar,National,Health Care,Full Time,Female,3 years,BA,Position Title: Trainer,
+Kabul,National,Engineering,Full Time,Any,7 Years,BA,Position Title: Senior Water Supply Design Specialist,
+Kabul,National,Health Care,Full Time,Female,3 years,BA,Position Title: Trainer,
+Kabul,National,Health Care,Full Time,Female,3 years,VD,Position Title: Trainer,
+Kunduz,National,Health Care,Full Time,Female,3 years,BA,Position Title: Trainer,
+Nangarhar,National,Health Care,Full Time,Female,3 years,BA,Position Title: Trainer,
+Kabul,National,Other,Full Time,Any,5 years,BA,Position Title: Accountability and learning coordinator,Strong analytical and conceptualization skills and ability to think strategically
+Herat,National,Health Care,Full Time,Female,3 years,BA,Position Title:  Trainer,
+Balkh,National,Health Care,Full Time,Female,3 years,BA,Position Title: Trainer,
+Kabul,National,Business,Full Time,Male,1 year,HS,Position Title: Cook,
+Parwan,National,Business,Full Time,Male,3 years,HS,Position Title: Cook,Minimum 3ÃƒÂƒÃ‚Â¿years related working experience in a professional environment. Experience with international NGOs is preferred.
+Balkh,National,Program/Project,Full Time,Any,2 years,BA,Position Title: Project Assistant,
+Kabul,National,Program/Project,Full Time,Any,7 years,BA,Position Title: Senior Monitoring and Evaluation Specialist,Results Focus
+Nangarhar,National,Program/Project,Full Time,Any,2 years,BA,Position Title: Project Assistant,
+Kabul,National,Program/Project,Full Time,Any,6 years,BA,Position Title: Transportation Engineer,
+Zabul,National,Health Care,Full Time,Male,2 years,BA,Position Title: Clinick Doctor ,
+Zabul,National,Health Care,Full Time,Male,2 years,BA,Position Title: Clinick Doctor ,
+Balkh,National,Other,Full Time,Male,3 years,BA,Position Title: Finance and Admin Assistant,"IT Tools (MS Office, Excel, accounting software, Reporting tools);"
+Maidan Wardak,National,Business,Full Time,Any,4-6 Years,BA,Position Title: HR Officer,
+Herat,National,Program/Project,Full Time,Any,5 years,BA,Position Title: Senior Regional Portfolio Manager,Ability to prepare and plan for the Project including managing technical fields;
+Kabul,National,Health Care,Full Time,Male,4 years,BA,"Position Title: Environmental, Social, Health and Safety (ESHS) Officer",
+Ghazni,National,Health Care,Full Time,Any,2 years,BA,Position Title: Pharmacy Technician,
+Kabul,National,Business,Full Time,Any,4 Years,BA,Position Title: Specialist Carrier Relations & Wholesales,
+Ghazni,National,Health Care,Full Time,Male,1 year,HS,Position Title: FATP Cleaner (Only Ghazni Residents Can Apply),
+Kabul,National,Business,Full Time,Any,6 years,MD,"Position Title: Senior Health Officer, Health Budget	 Development","Four to six years of relevant work experience within international development, with NGOs, UN agencies, or similar organizations in development, implementation, projection and follow-up of budget."
+Ghazni,National,Health Care,Full Time,Female,2 years,BA,Position Title: Female FATP Nurse,
+Kabul,National,Health Care,Full Time,Female,4-5 years,MD,Position Title: Reproductive Health Coordinator (Re Announced),"Demonstrated team-building capabilities and strong organizational, interpersonal, communication and negotiation skills"
+Ghazni,National,Health Care,Full Time,Female,2-year,BA,Position Title: Female Health & Hygiene Promoter (Only Ghazni Residents Can Apply),
+Ghazni,National,Health Care,Full Time,Female,None ,BA,Position Title: TFU Psycho-Social Support Provider (Only Female),
+Kabul,National,Security,Full Time,Male,2 years,HS,Position Title: Watchman,
+Kabul,National,Program/Project,Full Time,Any,1 year,BA,Position Title: MEAL Intern,Very good written and spoken English
+Baghlan,National,Business,Full Time,Male,4 years,BA,Position Title: Administration and Services,
+Baghlan,National,Business,Full Time,Male,4 years,BA,Position Title: Financial and Accounting department ,
+Baghlan,National,Engineering,Full Time,Male,2 years,BA,Position Title: Laboratory Chemical Department Engineer,
+Baghlan,National,Engineering,Full Time,Male,2 years,BA,Position Title: Laboratory technologist,
+Baghlan,National,Purchasing-Procurement,Full Time,Male,3 years,BA,Position Title:  Procurement Manager,
+Baghlan,National,Business,Full Time,Male,3 years,BA,Position Title: Human Resource Manager,
+Kabul,National,Health Care,Full Time,Any,3 years,BA,Position Title: Gender and Protection Manager,Minimum of 3 years professional experience in the management and implementation of protection projects.
+Helmand,National,Health Care,Full Time,Any,2 years,BA,Position Title: MHPSS Deputy Program Manager,
+Takhar,National,Program/Project,Full Time,Male,3 year,BA,Position Title: Project Manager (Takhar) (Re Announced) (Re Announced) (Re Announced),
+Kunar,National,Business,Full Time,Male,3 Years,BA,Position Title: HR Officer (Re Announced),
+Helmand,National,Health Care,Full Time,Female,3 years,BA,Position Title: Clinick Doctor ,
+Kabul,National,Business,Full Time,Male,3 years,BA,Position Title: HR Assistant (Re Announced),
+Kabul,National,Business,Full Time,Male,3 years,BA,Position Title: Finance Officer (Re Announced) (Re Announced),
+Kabul,National,Business,Full Time,Any,2 years,BA,Position Title: Administrative Assistant,The Employer stipulates the right to assign the Employee any other kind of work derived from his specialization. In case of urgent work and such like the Employee may be asked to work overtime as well as during public and other holidays.
+Kabul,National,Health Care,Full Time,Male,3 years,BA,Position Title: Clinick Doctor ,
+Kunar,National,Education,Full Time,Male,5-8 years,MA,Position Title: Education Specialist (Re Announced),
+Kabul,National,Program/Project,Full Time,Male,3 Years,MA,Position Title: Program Advisor (Re Announced),
+Kabul,National,Business,Full Time,Male,5 years,BA,Position Title: Project Manager (PM),At least 5 years of relevant professional experience with a Master?s Degree and 7 years? relevant professional experience with a Bachelor?s degree in related field.
+Kabul,National,Health Care,Full Time,Female,2 years,BA,Position Title: Midwife,Knowledge of Quality Assurance Procedures.
+Kabul,National,Health Care,Full Time,Male,10 years,BA,Position Title: Program Director,
+Sar-e Pol,National,Program/Project,Full Time,Any,5 years,BA,Position Title: Project Manager,Evidence of a highly competency of computer literacy.
+Sar-e Pol,National,Business,Full Time,Male,2 years,BA,Position Title: project assistant,
+Kabul,National,Program/Project,Full Time,Any,1 year,BA,"Position Title: Information Management Officer, NOA, Temporary Appointment (364 days), Kabul, Central Region #122985",
+Bamian,National,Health Care,Full Time,Male,2 years,MD,Position Title: Male MD,
+Baghlan,National,Health Care,Full Time,Any,3 years,BA,Position Title: Admin/Logistics Officer,
+Takhar,National,Business,Full Time,Any,2 Years,BA,Position Title: Admin/Finance Officer,
+Farah,National,Construction,Full Time,Male,4-6 years,BA,Position Title: Project Manager,
+Farah,National,Other,Full Time,Male,2-3 years,BA,Position Title:Quality Control Manager,
+Farah,National,Other,Full Time,Male,3 years,BA,Position Title: Quality Control Engineer,
+Farah,National,Engineering,Full Time,Male,4-5 years,BA,Position Title: Hydrotechnical Engineer,
+Farah,National,Engineering,Full Time,Male,2-3 years,BA,Position Title: Laboratory Employee,
+Farah,National,Engineering,Full Time,Male,2-3 years,BA,Position Title: Health Director ,
+Farah,National,Engineering,Full Time,Male,4-5 years,BA,Position Title: Estimation and Evaluation Engineer ,
+Farah,National,Engineering,Full Time,Male,3 years,BA,Position Title: Safety Engineer ,
+Farah,National,Business,Full Time,Male,10 years,BA,Position Title: Director of Administration,
+Ghazni,National,Education,Full Time,Male,3-4 years,BA,Position Title: Master Trainer (Re Announced) (Re Announced),
+Kabul,National,Health Care,Full Time,Any,3-4 years,MD,Position Title: Senior Officer Grievances Redressed Mechanisms,"A minimum of 3-4 years of working experience in the social safeguard, GRM, citizen engagement, community mobilizer, and social organizer with national and international organizations in a similar field will be a comparative advantage."
+Ghazni,National,Education,Full Time,Male,3-5 years,BA,Position Title: Project Manager (Re Announced),
+Nuristan,National,Health Care,Full Time,Female,2-3 years,BA,Position Title: Psychosocial Counselor,
+Nuristan,National,Health Care,Full Time,Female,2 years,BA,Position Title: Midwife,
+Balkh,National,Health Care,Full Time,Male,3 years,BA,Position Title: Doctor ,
+Balkh,Any,Business,Full Time,Male,3 years,BA,Position Title:Evaluation and Sales Manager,
+Nuristan,National,Health Care,Full Time,Female,1-year,BA,Position Title: Life Skill Trainer,
+Nuristan,National,Health Care,Full Time,Female,2-3 years,BA,Position Title: Youth Educators,
+Laghman,National,Construction,Full Time,Any,2 years,BA,Position Title: Assistant Engineer,
+Kabul,National,Business,Full Time,Any,1 year,BA,Position Title: HR Intern,
+Nuristan,National,Health Care,Full Time,Female,1 year,BA,Position Title: Community Mobilizer,
+Nuristan,National,Health Care,Full Time,Female,2-3 years,BA,Position Title: WFHS Project Officer,
+Paktia,National,Health Care,Full Time,Female,1-2 Years,None,Position Title: Female Cleaner TFU (Only Paktia Residents),
+Nuristan,National,Health Care,Full Time,Female,4-5 years,BA,Position Title: MHPSS  Manager (Psychologist),
+Paktia,National,Health Care,Full Time,Male,2 years,BA,Position Title: Male Nurse TFU,
+Kabul,National,Legal,Full Time,Any,7 Years,BA,Position Title: Manager Corporate Compliance,
+Kabul,National,Legal,Full Time,Any,7 Years,BA,Position Title: Manager ABAC and CoC,
+Paktia,National,Health Care,Full Time,Any,2 years,BA,Position Title: TFU Pediatrician,
+Nuristan,National,Health Care,Full Time,Any,2-3 years,BA,Position Title: Admin/Finance Assistant,
+Nuristan,National,Health Care,Full Time,Male,2 years,BA,Position Title: Security Assistant,
+Kabul,National,Business,Full Time,Any,3 Years,BA,Position Title: WFHS Project Manager,
+Balkh,National,Program/Project,Full Time,Any,5 years,BA,Position Title: Project Manager,Evidence of a highly competency of computer literacy.
+Balkh,National,Program/Project,Full Time,Male,3 years,BA,Position Title: project assistant,
+Paktia,National,Health Care,Full Time,Any,3 years,MD,Position Title: Ultrasonologist,
+Kabul,National,Business,Full Time,Male,2-3 Years,BA,Position Title: Finance Assistant,
+Kabul,National,Business,Full Time,Any,None ,BA,Position Title: HR Intern,
+Logar,National,Program/Project,Full Time,Any,2-4 years,HS,Position Title: Community/Social Mobilizer,
+Kabul,National,Business,Full Time,Female,2 years,BA,Position Title: Agribusiness Specialist,
+Kabul,National,Education,Full Time,Male,None ,BA,Position Title: Meal Manager,
+Kabul,National,Agriculture,Full Time,Any,15 years,BA,Position Title: Deputy Chief of Party-Technical,
+Badghis,National,Business,Full Time,Female,2 years,VD,Position Title: Agribusiness Assistant,
+Nangarhar,National,Program/Project,Full Time,Male,4 years,BA,Position Title: Child Protection Case Management Supervisor (Re Announced),
+Kabul,National,Business,Full Time,Male,15 years,MA,Position Title: Director of Operations (Re Announced),"Strong interpersonal communication skills, including the ability to negotiate and maintain good relations with staff as well as outside parties"
+Sar-e Pol,National,Security,Full Time,Male,1 year,HS,Position Title: Security Guard,Able to communicate and write in Dari/Pashto languages.
+Kabul,National,Agriculture,Full Time,Any,5 years,BA,Position Title: Gender and Youth Specialist,
+Kunduz,National,Other,Full Time,Any,5 years,BA,Position Title: Agronomist,Minimum 5 years? working experience with 2-3 years? experience in an equivalent position with national and international organizations. Experience in the management of development programs involving rural communities and sustainable development.
+Badakhshan,National,Other,Full Time,Any,5 years,BA,Position Title: Livelihood Expert,Excellent practical knowledge of supply chain development.
+Paktia,National,Health Care,Full Time,Male,1 year,HS,Position Title: FATP Cleaner (Only Paktia Residents),
+Takhar,National,Other,Full Time,Any,3 years,BA,Position Title: Social Mobilizer - Livelihood,Minimum 3 years? working experience with 2 years as social mobilizer in livelihood development and implementation.
+Kabul,National,Other,Full Time,Any,2-3 years,HS,Position Title: Cashier/Photocopy Operator,
+Paktia,National,Health Care,Full Time,Female,2-year,BA,Position Title: Female FATP Nurse (Only Paktia Residents),
+Kabul,National,Health Care,Full Time,Any,3 years,BA,Position Title: Pharmacy Officer,
+Kunduz,National,Other,Full Time,Any,5 years,BA,Position Title: Livelihood Expert,Excellent practical knowledge of supply chain development.
+Paktia,National,Health Care,Full Time,Any,2 years,BA,Position Title: Pharmacy Technician,
+Nangarhar,National,Program/Project,Full Time,Any,5 years,BA,Position Title: Regional Child Protection and Gender Based Violence Manage,
+Kandahar,National,Program/Project,Full Time,Any,2 years,BA,"Position Title: WASH Officer (NOB) Fixed-Term, Kandahar, Afghanistan, #90282 (Afghan Nationals Only)",
+Kabul,National,Business,Full Time,Any,3 years,BA,Position Title: Learning and Development Specialist,University degree in Administration or Communication essential
+Paktia,National,Health Care,Full Time,Female,None ,BA,Position Title: Female TFU Psycho-Social Support Provider,
+Kabul,National,Engineering,Full Time,Female,3 years,BA,Position Title: Shelter Coordinator,"Minimum university degree in Civil/Construction or architecture Engineering, Prior experience with in construction and community based projects."
+Kabul,National,Education,Full Time,Male,7 years,BA,Position Title: Program Manager,
+Paktia,National,Health Care,Full Time,Female,2-year,BA,Position Title: Health & Hygiene Promoter,
+Paktia,National,Health Care,Full Time,Female,2 years,BA,Position Title: Female TFU Nurse,
+Kabul,National,Business,Full Time,Any,3 years,BA,Position Title: Account Director (Media Project Manager),
+Kunar,National,Program/Project,Full Time,Any,2 year,BA,Position Title: Provincial Social Worker,
+Kabul,National,Health Care,Full Time,Male,7 years,MD,Position Title: HMIS and M&E Manager,"MD degree, preferably with postgraduate qualification in the field of Public Health."
+Herat,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Project Coordinator,Proven reporting skills
+Herat,National,Program/Project,Full Time,Male,5 years,MA,Position Title: Regional Manager,
+Kabul,National,Purchasing-Procurement,Full Time,Male,2-3 years,BA,Position Title: Procurement Officer (National),
+Kabul,National,Health Care,Full Time,Any,1 year,HS,Position Title: Vaccinator-PD13 (Re Announced),
+Kabul,National,Agriculture,Full Time,Female,3 years,BA,Position Title: Livelihood and Food Security Coordinator,Willingness to travel to project sites in the Central and East Region Jalalabad and Khost.
+Kabul,National,Other,Full Time,Any,2 Years,BA,Position Title: Medical logistics Officer,
+Sar-e Pol,National,Program/Project,Full Time,Any,2-3-years,BA,Position Title: Project Supervisor,At least 2-3 years of professional & progressive experience in humanitarian program or implementation of project activities with National and International NGOs.
+Nangarhar,National,Business,Full Time,Any,5 years,BA,Position Title: Project Officer (Re Announced),
+Kabul,National,Business,Full Time,Any,5-6 years,MA,Position Title: Consultant- gap assessment of renewable energy,
+Sar-e Pol,National,Program/Project,Full Time,Any,1-2-year,BA,Position Title: Field Monitor,At least 1-2 years of professional & progressive experience in humanitarian program or implementation of project activities with National and International NGOs.
+Kabul,National,Communication,Full Time,Male,5 years,BA,Position Title: Communication Officer,
+Ghazni,National,Program/Project,Full Time,Any,5 years,BA,Position Title: Child protection social work provincial supervisor,
+Maidan Wardak,National,Purchasing-Procurement,Full Time,Male,3 years,BA,Position Title: Logistics / Transport Assistant,
+Nangarhar,National,Health Care,Full Time,Any,3-4 years,BA,"Position Title: Environment, Social, Health and Safety (ESHS) Officer and GRM focal person","Three-to-four-year relevant work experience within international development, with NGOs, UN agencies, or similar organizations."
+Kabul,National,Education,Full Time,Female,4 years,BA,Position Title: Camp Management Officer,"Fluency either in Pashto and Dari, or both written and verbal"
+Kabul,National,Program/Project,Full Time,Any,1 year,BA,"Position Title: Generic Vacancy Announcement: WASH Officer NOA, Multiple locations, Afghanistan",
+Maidan Wardak,National,Health Care,Full Time,Any,3-4 Years,BA,"Position Title: Environment, Social, Health and Safety (ESHS) officer and GRM focal person",
+Balkh,National,Business,Full Time,Male,2 years,BA,Position Title: Warehouse Manager,
+Balkh,National,Business,Full Time,Male,2 years,BA,Position Title: Accounting Manager,
+Nangarhar,National,Program/Project,Full Time,Female,2 years,BA,Position Title: Nurse (Only Female),At least 2 years clinical nursing experience in primary health care
+Kabul,National,Business,Full Time,Any,2-3 years,BA,Position Title: National Finance Coordinator- Grants (Re Announced),
+Kandahar,National,Business,Full Time,Any,2-3 Years,BA,Position Title: Programme Admin/Finance Officer (Area Office),
+Balkh,National,Engineering,Full Time,Male,2 years,BA,Position Title: Engineer ,
+Nangarhar,National,Program/Project,Full Time,Female,2 years,BA,Position Title: Midwife (Only Female),At least 2 years clinical midwifery experience.
+Balkh,National,Design,Full Time,Any,1 year,BA,Position Title: Graphic Designer and video editor,
+Nangarhar,National,Program/Project,Full Time,Female,3-5 years,BA,Position Title: Senior Response Officer (Only Female),
+Kabul,National,Legal,Full Time,Any,7 Years,BA,Position Title: Manager AML/CFT and GSEC,
+Khost,National,Other,Full Time,Any,3-4 Years,BA,Position Title: Area Social Cohesion Officer,
+Kabul,National,Health Care,Full Time,Any,4-5 Years,BA,Position Title: Lab Technologist,
+Kabul,National,Business,Full Time,Any,8 Years,BA,Position Title: Senior Manager - Roaming,
+Ghowr,National,Program/Project,Full Time,Any,4 years,BA,Position Title: Provincial Supervisor / Coordinator,
+Ghowr,National,Program/Project,Full Time,Any,4 years,BA,Position Title: District Supervisors / Team Leaders,
+Ghowr,National,Program/Project,Full Time,Any,,BA,Position Title: Access facilitator,
+Ghowr,National,Program/Project,Full Time,Male,2 years,BA,Position Title: Surveyor,
+Ghowr,National,Program/Project,Full Time,Male,2 years,BA,Position Title: SCOPE staff (Import & Registration),
+Ghowr,National,Program/Project,Full Time,Male,3 years,BA,Position Title: Food Distribution Facilitators,
+Ghowr,National,Program/Project,Full Time,Female,1-2 years,BA,Position Title: Nutrition (BSFP) Facilitator,
+Herat,National,Program/Project,Full Time,Male,4 years,BA,Position Title: District CBT Supervisor,
+Herat,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Data Assistant,
+Herat,National,Program/Project,Full Time,Any,2 years,BA,Position Title: Cash Distributer / Community Mobilizer,Ability to regularly travel to the project sites for doing fieldwork.
+Ghowr,National,Program/Project,Full Time,Male,3 years,BA,Position Title: MEAL Officer,
+Badghis,National,Health Care,Full Time,Female,3 years,MD,Position Title: Female MD,
+Kabul,National,Hospitality,Full Time,Any,3 Years,BA,Position Title: Sales/Marketing Officer,
+Kabul,National,Communication,Full Time,Male,3 years,BA,Position Title: Communication Officer,At least 3 years of relevant professional experience with a Bachelor?s degree in a related field.
+Zabul,National,Banking/Accounting,Full Time,Male,1-2 years,BA,Position Title: CSO (Re Announced),
+Kabul,National,Business,Full Time,Male,5 years,BA,Position Title: Admin/Finance Officer,
+Kabul,National,Health Care,Full Time,Male,5 years,BA,Position Title: ARCS-QRCS Joint Health coordinator,
+Kabul,National,Program/Project,Full Time,Female,05 years,MA,Position Title: Project Manager (Re Announced) (Re Announced),"Minimum 05 years of experience in development field of which at least 3 (three) years of relevant experience in developing training manual, modules, curricula and training materials for the national/international development organizations;"
+Parwan,National,Education,Full Time,Male,1 year,MD,Position Title: Clinick Doctor ,
+Herat,National,Health Care,Full Time,Male,3 years,BA,Position Title:  Clinick Doctor,
+Herat,National,Health Care,Full Time,Male,2 years,BA,Position Title: Vaccinator-PD13 (Re Announced),
+Jawzjan,National,Agriculture,Full Time,Any,3 years,BA,Position Title: Agribusiness Marketing Officer,At least three years of working experience in agriculture sector with local or international NGOs. and have better practical experience and working knowledge of community level microfinance and agribusiness development.
+Oruzgan,National,Banking/Accounting,Full Time,Male,1 year,BA,Position Title: teller (Re Announced),
+Samangan,National,Health Care,Full Time,Any,3 years,MD,Position Title: Dentist(MD),
+Sar-e Pol,National,Program/Project,Full Time,Any,1-2-year,BA,Position Title: Cash out/ Food Distributer,At least 1-2 years of professional & progressive experience in humanitarian program or implementation of project activities with National and International NGOs.
+Kabul,National,Health Care,Full Time,Any,2-3 years,BA,Position Title: EPI Assistant,
+Farah,National,Health Care,Full Time,Female,1 year,BA,Position Title:  Nutritional Consultant ,
+Kabul,National,Hospitality,Full Time,Any,7 Years,BA,Position Title: Event Manager,
+Kabul,National,Program/Project,Full Time,Any,5 Years,BA,Position Title: IFC/World Bank Group Certified Trainer,
+Badghis,National,Business,Full Time,Any,3 years,BA,Position Title: Supply Chain Officer (Procurement),At least 3 years of progressively responsible experience in logistics
+Balkh,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Senior Project Officer,"Previous experience leading others leadership qualities, such as motivation techniques and conflict-management"
+Herat,National,Business,Full Time,Any,3 years,HS,Position Title: Support Services Assistant for HDP filed camp,Three years of work experience in the relevant field
+Kabul,National,Program/Project,Full Time,Any,3-5 years,BA,Position Title: Safeguarding Coordinator,
+Kandahar,National,Program/Project,Full Time,Female,3-5 years,VD,Position Title: REACH Senior Field Officer,
+Badghis,National,Program/Project,Full Time,Any,2 years,BA,"Position Title: Monitoring, Evaluation, Accountability, and Learning Officer (MEAL Officer)",Minimum 2 years of relevant experience within the humanitarian field
+Kabul,National,Program/Project,Full Time,Any,5 Years,BA,Position Title: Data Management Specialist,
+Kabul,National,Program/Project,Full Time,Any,3 Years,BA,Position Title: Data Quality Control Officer,
+Kabul,National,Program/Project,Full Time,Any,2 Years,BA,Position Title: Data Quality Controllers (DQCs),
+Kabul,National,Program/Project,Full Time,Any,3 Years,BA,Position Title: Project Officer,
+Nangarhar,National,Business,Full Time,Any,None ,BA,Position Title: Administration and Finance Intern,Teamwork: develops and promotes effective collaboration within and across units to achieve shared goals and optimize results.
+Kabul,National,Business,Full Time,Any,1-2  years,BA,Position Title: Risk Education Assistant “Administration” (Female only),
+Kabul,National,Business,Full Time,Any,None ,BA,Position Title: Risk Education Assistant “Administration” (Female only),At least (1-2) years of relevant experience
+Kunar,National,Health Care,Full Time,Female,1 year,HS,Position Title: Female Cleaner,
+Oruzgan,National,Program/Project,Full Time,Any,3 years,BA,Position Title: Monitoring and Evaluation (M&E) Officer,
+Jawzjan,National,Education,Full Time,Any,5 years,BA,Position Title: Project Coordinator ECPP,"Ability to represent, liaise and negotiate at different levels (national, provincial and local)."
+Kandahar,National,Other,Full Time,Any,None ,BA,Position Title: Data Entry Intern,Teamwork: develops and promotes effective collaboration within and across units to achieve shared goals and optimize results.
+Kabul,National,Support,Full Time,Any,2 years,HS,Position Title: Cook,
+Kandahar,National,Business,Full Time,Any,None ,BA,Position Title: Administration and Finance Intern,Teamwork: develops and promotes effective collaboration within and across units to achieve shared goals and optimize results.
+Zabul,National,Business,Full Time,Any,2 years,BA,"Position Title: Finance Assistant ""Zabul"" (Re Announced)",Minimum 2 years of relevant work experience
+Herat,National,Other,Full Time,Any,None ,BA,Position Title: Administration and Finance Intern,Teamwork: develops and promotes effective collaboration within and across units to achieve shared goals and optimize results.
+Badghis,National,Health Care,Full Time,Male,3 years,BA,Position Title: Clinick Doctor ,
+Bamian,National,Engineering,Full Time,Male,3 years,BA,Position Title: Water Supply Engineer  (Subject to donor fund),
+Kabul,National,Business,Full Time,Male,6 years,MA,Position Title: Finance Manager,Minimum 6 years experience in the counting & Finance field.
+Herat,National,Health Care,Full Time,Male,2 years,BA,Position Title:  MHPSS,
+Kabul,National,Security,Full Time,Any,4 years,MA,"Position Title: Safety, Security and Access Manager",Proactive and anticipative working style; effective in dealing with ambivalent situations;
+Kabul,National,Banking/Accounting,Full Time,Any,None ,BA,Position Title: Call for CV of fresh Economics and BBA graduates to be hired in different units of the Bank (Re Announced),
+Kabul,National,Health Care,Full Time,Any,2 years,BA,"Position Title: OB/GYN Specialists, pediatrician Specialists, Midwife, Nurses",
+Baghlan,National,Health Care,Full Time,Any,3 years,BA,Position Title: HR Assistant,
+Kabul,National,Business,Full Time,Female,1-5 years,BA,Position Title: Finance Manager,"Proven work experience in financial management, including design of financial systems."
+Baghlan,National,Health Care,Full Time,Any,3 years,BA,Position Title: Finance Officer,
+Baghlan,National,Health Care,Full Time,Any,3 years,MD,Position Title: Master Trainer,
+Herat,National,Business,Full Time,Male,4 years,BA,Position Title: Finance Officer,
+Kabul,National,Program/Project,Full Time,Any,5 Years,BA,Position Title: Data Management & Analytics Manager,
+Badghis,National,Program/Project,Full Time,Male,02 Years,BA,Position Title: Hygiene Promotors,
+Kabul,National,Health Care,Full Time,Male,5 years,MD,Position Title: Health Coordinator,Minimum 5 Years experience in the health sector of an organization.
+Maidan Wardak,National,Security,Full Time,Any,4 years,None,Position Title: Guard,
+Maidan Wardak,National,Support,Full Time,Any,4 years,None,Position Title: Cook/Cleaner,
+Jawzjan,National,Health Care,Full Time,Male,4 years,BA,Position Title: Quality Improvment Officer (Pharmacist) (Re Announced),
+Jawzjan,National,Health Care,Full Time,Male,5 years,MD,Position Title: Quality Improvment Officer (Medical Doctor) (Re Announced),
+Kabul,National,Business,Full Time,Any,2 years,MA,Position Title: Finance Manager,
+Jawzjan,National,Health Care,Full Time,Female,5 years,BA,Position Title: Quality Improvment Officer (Midwife) (Re Announced),
+Jawzjan,National,Health Care,Full Time,Female,5 years,MD,Position Title: Quality Improvment Officer (Ob/Gyn Specialist) (Re Announced),
+Bamian,National,Other,Full Time,Any,3 years,HS,Position Title: Field Security Radio Operator,
+Kabul,National,Other,Full Time,Male,10 years,HS,Position Title: Pastry or Bakery Chief,
+Kabul,National,Design,Full Time,Any,2 years,HS,Position Title: Re: Set Designer,
+Kabul,National,Other,Full Time,Any,2 years,HS,Position Title: Field Security Assistant,
+Kabul,National,Business,Full Time,Any,2 years,BA,Position Title: Finance Assistant,
+Kabul,National,Health Care,Full Time,Any,5 years,MD,Position Title: Capacity Building Manager,Excellent knowledge of English language and computer (verbal and written)
+Panjshir,National,Health Care,Full Time,Female,1 year,MD,Position Title: Gynecologist,
+Kabul,National,Business,Full Time,Male,4 Years,BA,Position Title: Senior Accountant/ Junior Accountant,Good Knowledge of retrieving different types of reports from QuickBooks
+Badghis,National,Program/Project,Full Time,Any,2-3 years,BA,Position Title: Monitoring and Evaluation Officer,"Post-graduate certificate in M&E related field such as surveys, sampling, data analysis"
+Kunduz,National,Communication,Full Time,Male,3 years,BA,Position Title: Technician,
+Kabul,Any,Program/Project,Full Time,Any,7 years,MA,Position Title: Organization Development Manager,Strong understanding of organizational development principles and practices.
+Kabul,Any,Program/Project,Full Time,Any,7 years,MA,Position Title: Fundraising Specialist /Proposal Writer,"Excellent Writing Skills: The ability to craft clear, concise, and compelling applications/proposals is critical to securing funding for the organization. Able to write in a variety of styles, including technical, persuasive, and narrative, depending on the requirements of the proposal."
+Kabul,National,Education,Full Time,Any,3 years,MA,Position Title: Dean of Economics faculty,
+Baghlan,National,Health Care,Full Time,Any,2 years,MD,Position Title: Project Senior Officer,Familiarity with IMAM package and passing of SOP TOT training.
+Kabul,National,Other,Full Time,Any,3 Years,BA,Position Title: Engineer I P&S,
+Kabul,National,Information Technology,Full Time,Any,2 Years,BA,Position Title: Engineer VAS Operations,
+Laghman,National,Business,Full Time,Any,2-3 Years,BA,Position Title: Provincial Coordinator,
+Laghman,National,Business,Full Time,Any,5 Years,BA,Position Title: M&E Officer,
+Laghman,National,Business,Full Time,Any,3 years,BA,Position Title: Psycho Social Counselor,
+Laghman,National,Business,Full Time,Any,3 years,BA,Position Title: Social Worker,
+Laghman,National,Business,Full Time,Any,2-3 Years,BA,Position Title: Business Counselor,
+Kabul,National,Business,Full Time,Any,2 Years,BA,Position Title: Liaison Officer,
+Laghman,National,Business,Full Time,Any,2-3 Years,BA,Position Title: Legal Officer,
+Laghman,National,Business,Full Time,Any,1-2 Years,HS,Position Title: Community Mobilizer,
+Laghman,National,Business,Full Time,Any,4 Years,BA,Position Title: Procurement Officer,
+Kabul,National,Business,Full Time,Any,2-3 Years,BA,Position Title: Outreach Officer,
+Kabul,National,Business,Full Time,Any,5 years,BA,Position Title: Finance Manager,
+Kabul,National,Business,Full Time,Any,5 years,BA,Position Title: Admin/HR Manager,
+Khost,National,Health Care,Full Time,Male,4 years,BA,Position Title: Quality Improvement Officer/ Pharmacist (Re Announced),
