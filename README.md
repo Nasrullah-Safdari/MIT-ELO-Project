@@ -21,6 +21,13 @@ Despite being based on a single source, the analysis can nevertheless be very he
 Identifying and understanding the gender disparities in job availability within the Afghan job market in 2023, and exploring the underlying factors contributing to these disparities.
 
 
+## Research Question
+
+What are the gender disparities in job availability within the Afghan job market in 2023, and what factors contribute to these disparities?
+
+
+
+
 
 
 
