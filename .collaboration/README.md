@@ -9,7 +9,7 @@
         <li>Working to achieve our goal. </li>
     
     
-    </ul>
+    
  
 
 <!-- group norms list -->
