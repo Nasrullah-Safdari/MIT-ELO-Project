@@ -8,7 +8,7 @@
 The analysis of Afghanistan's labor market, with a particular focus on gender job availability in 2023, is the main goal of this study. In Afghanistan, there are still gender differences in a number of areas of society, including the workplace. Gaining a thorough grasp of the gender gaps in the labor market and pinpointing the underlying causes are the main goals of this investigation.
 
 
-We will use the data from ACBAR website which was collected using web scraping. We will analyze job availability based on job categories, locations,  minimum education required, years of experience, gender, and required skills. The main goals of our investigation will be to comprehend the state of the labor market as a whole and spot any patterns or trends in the availability of jobs.
+We will use the data from <link href= "https://www.acbar.org/jobs?page=2" > ACBAR website which was collected using web scraping. We will analyze job availability based on job categories, locations,  minimum education required, years of experience, gender, and required skills. The main goals of our investigation will be to comprehend the state of the labor market as a whole and spot any patterns or trends in the availability of jobs.
 
 The results of this investigation will help us better understand how the Afghan labor market is doing right now. It will shed light on the kinds of jobs that are being posted, the sectors that are actively hiring, and it might even draw attention to any gender gaps or particular career prospects for particular groups of people.
 
