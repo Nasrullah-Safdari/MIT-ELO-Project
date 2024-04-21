@@ -8,7 +8,6 @@
         <li>Delivering tasks on time.</li>
         <li>Working to achieve our goal. </li>
     
-    </ul>
     
  
 
