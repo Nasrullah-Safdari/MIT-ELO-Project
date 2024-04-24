@@ -13,6 +13,7 @@ We will use the data from <a href="https://www.acbar.org/jobs?page=2" target="_b
 The results of this investigation will help us better understand how the Afghan labor market is doing right now. It will shed light on the kinds of jobs that are being posted, the sectors that are actively hiring, and it might even draw attention to any gender gaps or particular career prospects for particular groups of people.
 
 Despite being based on a single source, the analysis can nevertheless be very helpful for organizations, policymakers, and job seekers who want to understand the dynamics of the Afghan labor market. The knowledge gathered from this study can assist with making career selections, pinpointing possible job growth sectors, and bolstering initiatives aimed at enhancing the nation's employment prospects.
+You can read more about the  <a href= "https://www.acbar.org/" target= '_blank'> ACBAR Website </a> 
 
 
 
