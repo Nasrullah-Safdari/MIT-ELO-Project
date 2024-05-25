@@ -72,8 +72,8 @@ The analysis highlights significant gender disparities in the Afghanistan job ma
 
 ## Repository Contents
 
-- `newData.csv`: The dataset used for analysis
-- `afghan_job_market_analysis.ipynb`: Jupyter notebook containing the exploratory data analysis and visualizations
+- `newData.csv`: The dataset used for analysis  <a href="/data_source/cleaned_data" target="_blank">new_data</a>
+- `afghan_job_market_analysis.ipynb`: Jupyter notebook containing the exploratory data analysis and visualizations <a href="/analysis" target="_blank">afghan_job_market_analysis.ipynb</a>
 
 
 
