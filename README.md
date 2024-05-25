@@ -29,4 +29,3 @@ What are the gender disparities in job availability within the Afghan job market
 ## Powe Bi Dashboard:
 <h5><a href="/data_visualization/">PowerBi Dashboard</a></h5>
 <iframe title="Afghanistan_job_market_dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=2cc8cf4b-3562-4300-94aa-e23936f7173e&autoAuth=true&ctid=ca936f2b-b15a-4bc2-b91f-7ccbd76fa7d1" frameborder="0" allowFullScreen="true"></iframe>
-
