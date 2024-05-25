@@ -27,6 +27,6 @@ Identifying and understanding the gender disparities in job availability within 
 What are the gender disparities in job availability within the Afghan job market in 2023, and what factors contribute to these disparities?
 
 ## Powe Bi Dashboard:
-<h2><a href="/data_visualization/">PowerBi Dashboard</a></h2>
+<h5><a href="/data_visualization/">PowerBi Dashboard</a></h5>
 
 
